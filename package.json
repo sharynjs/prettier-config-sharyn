@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config-sharyn",
+  "name": "@sharyn/prettier",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/sharynjs/prettier-config-sharyn.git",
